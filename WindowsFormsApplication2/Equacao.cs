@@ -45,8 +45,8 @@ namespace WindowsFormsApplication2
             double resultado = 0;
             if (delta >= 0)
             {
-                resultado = (-1 * b - Math.Sqrt(delta)) / 2 * a;
-                return String.Format("X1 : {0,12:0.00}", resultado);
+                resultado = ((-b) + Math.Sqrt(delta)) / 2 * a;
+                return String.Format("X1 : {0,5:0.00}", resultado);
             }
             else
             {
@@ -59,8 +59,8 @@ namespace WindowsFormsApplication2
             double resultado = 0;
             if (delta >= 0)
             {
-                resultado = (-1 * b + Math.Sqrt(delta)) / 2 * a;
-                return String.Format("X2 : {0,12:0.00}", resultado);
+                resultado = ( (-b) - Math.Sqrt(delta)) / 2 * a;
+                return String.Format("X2 : {0,5:0.00}", resultado);
             }
             else
             {
