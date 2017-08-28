@@ -1,3 +1,4 @@
 # WindowsFormsApplication2
 
-![alt tag](http://https://github.com/cristian-trucco/WindowsFormsApplication2/blob/master/ProgramaCalculoEquacao.png)
+
+![Equação do Segundo Grau](https://github.com/cristian-trucco/WindowsFormsApplication2/blob/master/ProgramaCalculoEquacao.png)
