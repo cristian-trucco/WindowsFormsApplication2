@@ -50,7 +50,7 @@ namespace WindowsFormsApplication2
             }
             else
             {
-                return "Equação não tem Raízes. Delta é menor que zero.";
+                return "Equação não tem Raízes.Delta é menor 0.";
             }
         }
 
@@ -64,7 +64,7 @@ namespace WindowsFormsApplication2
             }
             else
             {
-                return "Equação não tem Raízes. Delta é menor que zero.";
+                return "Equação não tem Raízes.Delta é menor 0.";
             }
         }
     }
